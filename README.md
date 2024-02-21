@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Devansh Kalra</h1>
+<h1 align="center">Hi, I'm Devansh</h1>
 <h3 align="center">Highly skilled and experienced software engineer with a strong background in backend development, cloud computing, and agile methodologies. Proven ability to design and implement scalable and efficient systems. Adept at working in cross-functional teams and mentoring junior engineers. Seeking to leverage my technical skills and passion for software engineering in a challenging role.</h3>
 
-- 📫 How to reach me **devanshkalra29@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: - 📫devanshkalra29@gmail.com
+</h3>
 <p align="left">
 </p>
 
